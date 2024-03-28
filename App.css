@@ -1,0 +1,11 @@
+.App{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.otp-input{
+    width : 40px;
+    height : 40px;
+    margin  : 10px;
+    text-align: center;
+    font-size: 1.2em;
+}
